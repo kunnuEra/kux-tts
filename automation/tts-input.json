@@ -1,13 +1,9 @@
 {
-  "voice": "Show host (US, m)",
+  "voice": "Calming (US, m)",
   "parts": [
     {
       "id": 1,
-      "text": "The sea returned a man half-dead and a chest she never asked for. Maren had spent nineteen years mending nets on that cliff, fingers scarred by salt and twine, earning just enough to keep her lamp burning and her stomach quiet. She wasn't bitter. She simply lived small. When the storm threw the stranger onto the rocks below her cottage, she dragged him inside, dried him, pressed warm broth to his cracked lips. He survived three days."
-    },
-    {
-      "id": 5,
-      "text": "But that word — deserved — sat in her mouth like ash. I am Kunal, and I have held something that wasn't mine and watched my mind build a cathedral of reasons why keeping it was right. That private courtroom inside your skull where you play both lawyer and judge — have you sat in it? Tell me honestly in the comments what you almost kept and why you didn't."
+      "text": "heelo"
     }
   ]
 }
