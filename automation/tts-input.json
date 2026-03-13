@@ -1,13 +1,9 @@
 {
-  "voice": "Desire (US, m)",
+  "voice": "Show host (US, m)",
   "parts": [
     {
       "id": 1,
-      "text": "One only. Enough for a boat of her own, enough to leave the cliff forever. She lifted it. Closed her fist. Closed the lid. Carried the chest the rest of the way to the monastery alone while the sapphire burned a hole against her heart. At the gate the monks took the chest without surprise, as if strangers delivered dead men’s promises every moon. They gave her a bowl of barley soup and a straw mat for the night. Nothing more."
-    },
-    {
-      "id": 5,
-      "text": "Share this with someone who is awake at night asking the same questions. And tell me in the comments — what did this story make you see about yourself? See you in the next one."
+      "text": "Bhai, maine sab kuch scan kar liya — tumhare errors, tumhara logic, tumhari agent ki chat history, sab. Ab main tumhe **seedha working solution** deta hu, bina kisi extra cheez ke."
     }
   ]
 }
