@@ -1,9 +1,25 @@
 {
-  "voice": "Show host (US, m)",
+  "voice": "voice-donations/spanish-limaperu_enhanced.wav",
   "parts": [
+    {
+      "id": 31,
+      "text": "Que los límites que estás dispuesta a defender — incluso cuando defenderlos puede costarte absolutamente todo — son los únicos límites que existen de verdad. Todo lo demás son sugerencias que la gente descarta cuando le resulta conveniente."
+    },
+    {
+      "id": 32,
+      "text": "Quiero decirte algo ahora desde un lugar muy personal, desde los años que llevo metida en estos temas, leyendo, investigando, pero sobre todo escuchando a mujeres reales contarme historias que se parecen tanto entre sí que a veces pienso que estamos viviendo todas la misma herida con nombres distintos. He visto a mujeres brillantes, capaces, con una inteligencia que ilumina cualquier habitación donde entran, arrastrarse emocionalmente por hombres que no les llegan ni a los talones."
+    },
     {
       "id": 33,
       "text": "He visto a mujeres que sostienen familias enteras con su esfuerzo recibir a cambio la ingratitud más aplastante y seguir dando porque creen que si paran de dar, dejan de merecer amor. He visto el patrón tantas veces que ya no me sorprende — pero sigue indignándome cada vez como la primera. Y lo que más me duele no es que los demás se aprovechen. Lo que más me duele es que a nosotras nos convencieron de que dejarnos aprovechar era un acto de amor."
+    },
+    {
+      "id": 34,
+      "text": "Quisiera que te detuvieras un momento con esto, que no lo dejaras pasar como una idea más. Piensa en la relación que más te ha costado en la vida — la que más te quitó, la que más cicatrices dejó. Y pregúntate con honestidad cruda: ¿yo enseñé a esa persona a tratarme así? No porque sea tu culpa — jamás es tu culpa que alguien elija maltratarte — sino porque hay poder en reconocer que tú tienes la llave para que eso no se repita nunca más."
+    },
+    {
+      "id": 35,
+      "text": "Si alguna vez te has reconocido en esto, si alguna vez te has quedado en una relación sabiendo que te estaban tratando mal porque tenías miedo de estar sola, de ser la mala, de perder algo que en realidad ya habías perdido — dímelo. Cuéntamelo. Porque cada vez que una mujer nombra su verdad, le da permiso a otra para nombrar la suya. Pero hay un tercer patrón — y este es quizás el más difícil de aceptar porque contradice absolutamente todo lo que nos contaron sobre el amor verdadero."
     }
   ]
 }
